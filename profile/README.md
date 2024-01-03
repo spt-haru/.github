@@ -24,3 +24,5 @@ Thank you for your interest and enthusiasm!
   - `Haru.Client.Core`: Core patches to launch EFT offline ([link](https://github.com/spt-haru/haru.client.core)).
   - `Haru.Client.FileChecker`: Overrides EFT's file integrity scanning ([link](https://github.com/spt-haru/haru.client.filechecker)).
   - `haru.Client.Compression`: Overrides EFT's zlib compression ([link](https://github.com/spt-haru/haru.client.compression)).
+- Tools
+  - `Haru.FileChecker`: Generate `ConsistencyInfo` ([link](https://github.com/spt-haru/haru.filechecker)).
