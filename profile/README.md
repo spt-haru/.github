@@ -26,3 +26,5 @@ Thank you for your interest and enthusiasm!
   - `haru.Client.Compression`: Overrides EFT's zlib compression ([link](https://github.com/spt-haru/haru.client.compression)).
 - Tools
   - `Haru.FileChecker`: Generate `ConsistencyInfo` ([link](https://github.com/spt-haru/haru.filechecker)).
+- Documentation
+  - `docs`: For both EFT internals and Haru ([link](https://github.com/spt-haru/docs)). 
