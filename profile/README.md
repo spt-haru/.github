@@ -26,5 +26,7 @@ Thank you for your interest and enthusiasm!
   - `haru.Client.Compression`: Overrides EFT's zlib compression ([link](https://github.com/spt-haru/haru.client.compression)).
 - Tools
   - `Haru.FileChecker`: Generate `ConsistencyInfo` ([link](https://github.com/spt-haru/haru.filechecker)).
+  - `de4dot`: Deobfuscation of `Assembly-CSharp.dll` ([link](https://github.com/spt-haru/de4dot)).
+  - `dnspy`: Inspecting EFT's assemblies ([link](https://github.com/spt-haru/dnspy))
 - Documentation
   - `docs`: For both EFT internals and Haru ([link](https://github.com/spt-haru/docs)). 
