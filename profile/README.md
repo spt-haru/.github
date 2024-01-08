@@ -19,7 +19,7 @@ Thank you for your interest and enthusiasm!
 - Server
   - `Haru.Server`: Offline server emulator ([link](https://github.com/spt-haru/haru.server)).
 - Launcher
-  - `Haru.launcher`: A very simple game starter ([link](https://github.com/spt-haru/haru.launcher)).
+  - `Haru.Launcher`: A very simple game starter ([link](https://github.com/spt-haru/haru.launcher)).
 - Client patches
   - `Haru.Client.Core`: Core patches to launch EFT offline ([link](https://github.com/spt-haru/haru.client.core)).
   - `Haru.Client.FileChecker`: Overrides EFT's file integrity scanning ([link](https://github.com/spt-haru/haru.client.filechecker)).
