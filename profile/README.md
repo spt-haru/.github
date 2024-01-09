@@ -4,6 +4,7 @@ This team focusses on developing tools and libraries for EFT modding.
 
 ### Objectives
 
+- Researching new techniques used by the EFT client/server
 - Emulating the server for offline singleplayer modding
 - Re-implementing existing features to improve performance and stability
 - Create tooling around existing features
